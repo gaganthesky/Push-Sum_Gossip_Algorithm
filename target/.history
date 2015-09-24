@@ -1,0 +1,66 @@
+compile
+run
+compile
+run hi
+run I'm Umar
+compile
+run 12
+run I'm Umar
+compile
+run I'm Umar
+run 10 pushsum hello
+compile
+run
+run 1 2 3
+compile
+run 1 2 3
+compile
+run
+run 1 2 3
+compile
+run
+run 1 2 3
+compile
+run 1 2 3
+run 3 push full
+run 1 2 3
+compile
+run 3 asd full
+compile
+run 3 full pushsum
+run 3 line pushsum
+compile
+run 3 line pushsum
+run 3 line avs
+compile
+run 4 line avs
+run 3 line asd
+run 4 line asd
+run 3 line push
+run 4 line push
+compile
+run
+run 3 line push
+run 4 line push
+compile
+run 5 line push-sum 
+run 5 line pushsum 
+compile
+compile -feature
+compile
+run 5 full gossip
+run 20 full gossip
+run 200 full gossip
+run 2000 full gossip
+run 200 full gossip
+run 200 line gossip
+run 200 full gossip
+compile
+run 5 line gossip
+compile
+run 20 line gossip
+run 200 line gossip
+run 200 full gossip
+exit
+compile
+run 200 full gossip
