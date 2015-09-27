@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/Umar/Studies/Semester%203/Distributed%20Operaing%20Systems/DOS/Project2_Gagan_Umar/Gossip_PushSum_Simulator/}gossip_pushsum_simulator...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/sgaga/Documents/GitHub/Gossip_PushSum_Simulator/}gossip_pushsum_simulator...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#gossip_pushsum_simulator_2.10;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#gossip_pushsum_simulator_2.10;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#gossip_pushsum_simulator_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cdd7efd[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@109cd274[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.1[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.1 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#gossip_pushsum_simulator_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->runtime][0m
@@ -28,7 +28,7 @@
 [0m[[0minfo[0m] [0mResolving com.typesafe#config;1.0.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.typesafe#config;1.0.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe#config;1.0.0[0m
-[0m[[0mdebug[0m] [0m	found com.typesafe#config;1.0.0 in public[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe#config;1.0.0 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor_2.10;2.1.1->com.typesafe#config;1.0.0 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor_2.10;2.1.1->com.typesafe#config;1.0.0 [compile->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor_2.10;2.1.1->com.typesafe#config;1.0.0 [compile->compile][0m
@@ -65,7 +65,7 @@
 [0m[[0minfo[0m] [0mResolving com.google.protobuf#protobuf-java;2.4.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.google.protobuf#protobuf-java;2.4.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.4.1[0m
-[0m[[0mdebug[0m] [0m	found com.google.protobuf#protobuf-java;2.4.1 in public[0m
+[0m[[0mdebug[0m] [0m	found com.google.protobuf#protobuf-java;2.4.1 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-remote_2.10;2.1.1->com.google.protobuf#protobuf-java;2.4.1 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-remote_2.10;2.1.1->com.google.protobuf#protobuf-java;2.4.1 [compile->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-remote_2.10;2.1.1->com.google.protobuf#protobuf-java;2.4.1 [compile->compile][0m
@@ -443,19 +443,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.1!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.1!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1891ms :: artifacts dl 31ms[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 compile produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 runtime produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 test produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 provided produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 optional produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 compile-internal produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 runtime-internal produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 test-internal produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 plugin produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 sources produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 docs produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 pom produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 scala-tool produced in C:\Users\Umar\Studies\Semester 3\Distributed Operaing Systems\DOS\Project2_Gagan_Umar\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (1891ms resolve - 31ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 898ms :: artifacts dl 25ms[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 compile produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 runtime produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 test produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 provided produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 optional produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 compile-internal produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 runtime-internal produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 test-internal produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 plugin produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 sources produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 docs produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 pom produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#gossip_pushsum_simulator_2.10;1.0 scala-tool produced in C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\resolution-cache\reports\default-gossip_pushsum_simulator_2.10-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (898ms resolve - 25ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

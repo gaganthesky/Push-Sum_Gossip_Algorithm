@@ -1,15 +1,31 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\src\main\scala\Gossip-PushSum.scala, C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\Topology_3D.scala)[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\src\main\scala\Gossip-PushSum.scala, C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\Topology_3D.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\src\main\scala\Gossip-PushSum.scala, C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\Topology_3D.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.1[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2bf925bb, interfacing (CompilerInterface) with Scala compiler version 2.10.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes;C:\Users\sgaga\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\target\scala-2.10\classes;C:\Users\sgaga\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\bundles\akka-actor_2.10-2.1.1.jar;C:\Users\sgaga\.ivy2\cache\com.typesafe\config\bundles\config-1.0.0.jar;C:\Users\sgaga\.ivy2\cache\com.typesafe.akka\akka-remote_2.10\bundles\akka-remote_2.10-2.1.1.jar;C:\Users\sgaga\.ivy2\cache\io.netty\netty\bundles\netty-3.5.8.Final.jar;C:\Users\sgaga\.ivy2\cache\com.google.protobuf\protobuf-java\jars\protobuf-java-2.4.1.jar;C:\Users\sgaga\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar[0m
+[0m[[31merror[0m] [0mC:\Users\sgaga\Documents\GitHub\Gossip_PushSum_Simulator\Topology_3D.scala:1: object StdIn is not a member of package io[0m
+[0m[[31merror[0m] [0mimport scala.io.StdIn.{readLine, readInt}[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

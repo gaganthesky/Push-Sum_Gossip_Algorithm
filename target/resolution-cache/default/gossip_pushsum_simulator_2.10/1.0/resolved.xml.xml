@@ -4,7 +4,7 @@
 		module="gossip_pushsum_simulator_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150924155744"
+		publication="20150926142135"
 	>
 		<description>
 		Gossip_PushSum_Simulator
